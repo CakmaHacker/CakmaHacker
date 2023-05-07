@@ -16,4 +16,3 @@ I have been develop Mobile, Linux and web software for 3 years<br>I am intereste
 ![](https://github-contributor-stats.vercel.app/api?username=cakmahacker&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=cakmahacker&icon=0&color=0)](https://visitcount.itsvg.in)
