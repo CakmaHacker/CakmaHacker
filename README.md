@@ -17,5 +17,3 @@ I have been develop Mobile, Linux and web software for 3 years<br>I am intereste
 
 ---
 [![](https://visitcount.itsvg.in/api?id=cakmahacker&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
